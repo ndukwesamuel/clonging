@@ -1,0 +1,227 @@
+
+@media (max-width: 425px) {
+    
+    body{
+        /* background-color: red; */
+    }
+
+    /* nav css start for phone start here here */
+
+    .nav_link{
+        padding-right: 0px;
+    }
+
+    .nav_img{
+
+        margin-left: 0px;
+    }
+    /* nav css start for phone end here here */
+
+
+        
+    /* section 1 css start for phone start here here */
+
+    .sec1_img{
+        margin-top: 2em;
+        margin-left: 0px;
+        width: 100%;
+    }
+
+        
+    .sec1_div{
+        margin: 0px 0px;
+    }
+
+    .sec1_div > h1 {
+        text-align: center;
+        font-size: 1em;
+        width: 100%;
+        margin: 0 0 0 0px ;
+    }
+
+    .sec1_div > p {
+        text-align: center;
+        font-size: 1em;
+        width: 100%;
+        margin: 2em 0 0 0px ;
+    
+    }
+    
+    .sec1_div > button {
+        text-align: center;
+        font-size: 1em;
+        width: 15em;
+        height: 40px;
+        border-radius: 30px;
+        background-color: #42B0D1;
+        margin: 2em 0 20px 3em ;
+        outline: none;
+        border-color: white;
+        
+
+
+
+    
+    }
+
+    /* section 1 css start for phone end here here */
+
+    
+/* section 2 css start here */
+
+
+.sec2{
+    padding: 0em 0em 0em 0em;
+}
+
+.sec2__{
+    padding-top: 2em;
+}
+
+.sec2__ > img{
+    width: 20%;
+    margin-left: 8em;
+}
+
+/* section 2 css end here */
+
+
+
+
+/* section 3 css start here */
+
+.sec3{
+    padding: 2em 0em 0 1em;
+}
+
+.sec3_img{
+    width: 14em;
+       /* padding-top: 8em; */
+
+}
+
+.sec3_2{
+    padding-top: 0em;
+    
+}
+
+.sec3_2 > h1{
+    width: 100%;
+    font-size: 30px;
+}
+
+.sec3_2 > p{
+    width: 100%;
+}
+
+.sec3_3 > a{
+    text-decoration: none;
+    color: #5CDBD5;
+}
+
+.sec3_3 > hr {
+    width: 28%;
+    margin-top: -0px;
+    background-color: #5CDBD5;
+    
+}
+/* section 3 css end here */
+
+
+
+/* section 4 css start here */
+.sec4{
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 0em;
+}
+
+.sec4 > img{
+    position: relative;
+    top: 10px;
+    z-index: -1;
+    width: 5%;
+}
+
+.sec4_1{
+    padding: 1em 10px 0em 10px;
+    background-color:#21293c;
+    margin-bottom: 20px;
+   
+}
+.sec4_4_pic{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+
+.sec4_4_p{
+    margin-left: 0px;
+    margin-top: 0px;
+    font-size: 12px;
+}
+
+.sec4_1 > p{
+    font-size: 11px;
+    width: 100%;
+}
+
+.sec4_4_p2{
+    margin-top: 0px;
+
+}
+
+.row__flex{
+    display: flex;
+}
+
+/* section 4 css end here */
+
+
+
+
+/* section 5 css start here */
+
+.sec5{
+
+    /* background-color:   #1B2330; */
+    background-color: black;
+    margin: 0 0em 0em 0em;
+    text-align: center;
+
+}
+
+.email{
+  width: 90%;
+  height: 40px;
+  border-radius: 30px;
+  outline: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-color: transparent;
+  margin-right: 0em;
+  margin-bottom: 10px;
+}
+.submit{
+    width: 90%;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #42B0D1;
+  border-color: transparent;
+  color: white;
+}
+
+.email::placeholder{
+  color: black;
+}
+
+/* section 5 css end here */
+
+
+
+}
+
+
+

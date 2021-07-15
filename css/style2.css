@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* background-color: #1B2330; */
+
+    background-color: hsl(218, 28%, 13%);
+    color: whitesmoke;
+}
+
+/* nav css start for destop start here here */
+
+.nav_img{
+    width: 5em;
+    margin-left: 3em;
+}
+
+.nav_link{
+    padding-right: 5em;
+}
+/* nav css start for destop end here here */
+
+
+
+    /* section 1 css start for destop start here here */
+
+    .sec1_img{
+        margin-top: 4em;
+        margin-left: 20em;
+        width: 55%;
+    }
+
+    .sec1_div{
+
+        margin: 0 20em;
+    }
+
+    .sec1_div > h1 {
+        text-align: center;
+        font-size: 2em;
+        width: 80%;
+        margin: 0 0 0 82px ;
+    }
+
+
+    .sec1_div > p {
+        text-align: center;
+        font-size: 1em;
+        width: 70%;
+        margin: 2em 0 0 120px ;
+    
+    }
+
+
+    
+    .sec1_div > button {
+        text-align: center;
+        font-size: 1em;
+        width: 15em;
+        height: 40px;
+        border-radius: 30px;
+        background-color: #42B0D1;
+        margin: 2em 0 0 260px ;
+        outline: none;
+        border-color: white;
+        margin-bottom: 20px;
+        color: white;
+
+
+    
+    }
+
+    /* section 1 css start for destop end here here */
+
+
+/* section 2 css start here */
+
+
+.sec2{
+    padding: 4em 10em 0 10em;
+}
+
+
+
+.sec2__ > div{
+    text-align: center;
+    width: 80%;
+}
+
+.sec2__ > div > h2{
+    font-size: 20px;
+}
+
+.sec2__ > div > p{
+    font-size: 12px;
+}
+
+.sec2__ > img{
+    width: 13%;
+    margin-left: 10em;
+}
+
+.sec2-{
+    margin-top: 0em;
+    margin-bottom: 1em;
+    width: 7%;
+}
+
+
+
+
+/* section 2 css end here */
+
+
+
+/* section 3 css start here */
+
+.sec3{
+    padding: 5em 5em 0 5em;
+}
+
+.sec3_2{
+    padding-top: 8em;
+}
+
+.sec3_2 > h1{
+    width: 60%;
+    font-size: 30px;
+}
+
+.sec3_2 > p{
+    width: 80%;
+}
+
+.sec3_3 > a{
+    text-decoration: none;
+    color: #5CDBD5;
+}
+
+.sec3_3 > hr {
+    width: 28%;
+    margin-top: -0px;
+    background-color: #5CDBD5;
+    
+}
+/* section 3 css end here */
+
+
+/* section 4 css start here */
+.sec4{
+    padding-left: 8em;
+    padding-right: 8em;
+    padding-top: 5em;
+    padding-bottom: 0em;
+}
+
+.sec4 > img{
+    position: relative;
+    top: 20px;
+    z-index: -1;
+    width: 5%;
+}
+
+.sec4_1{
+
+    padding: 2em 1em 0em 1em;
+    background-color:  hsl(219, 30%, 18%);
+   
+}
+.sec4_4_pic{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+
+.sec4_4_p{
+    margin-left: -130px;
+    margin-top: -5px;
+}
+
+.sec4_1 > p{
+    font-size: 13px;
+}
+
+
+.sec4_4_p2{
+    margin-top: -24px;
+
+}
+
+/* section 4 css end here */
+
+
+
+/* section 5 css start here */
+
+.sec5{
+
+      /* background-color:   #1B2330; */
+      background-color: black;
+      margin: 0 15em 0 15em;
+      text-align: center;
+      padding-bottom: 2em;
+      padding-top: 2em;
+      position: relative;
+      top: 100px;
+
+}
+
+.email{
+    width: 23em;
+    height: 40px;
+    border-radius: 20px;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-color: transparent;
+    margin-right: 5em;
+}
+.submit{
+    width: 10em;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #42B0D1;
+    border-color: transparent;
+    color: white;
+}
+
+.email::placeholder{
+    color: black;
+}
+
+
+
+/* section 5 css end here */
+
+
+/* footer */
+
+footer{
+    background-color: #0c1524;
+    padding-top: 9em;
+    padding-left: 5em;
+    padding-right: 5em;
+
+}
+
+.fot_p_1{
+    font-size: 12px;
+}
+
