@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../bootstrap-5.0.2-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Navbar</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav ms-auto">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link" href="#">Features</a>
+              <a class="nav-link" href="#">Pricing</a>
+              <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+
+
+
+    <section class="sec1">
+
+
+        <div class="sss">
+            <img src="images/illustration-intro.png" alt=" dksdlk">
+
+        </div>
+        
+        <div>
+            <h1>All your file in one  secure location, accesible anywhere.</h1>
+
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam adipisci quidem, 
+                aliquam modi a aut libero maxime dolores sed officiis animi.
+                 Similique rem perferendis tempora odio repellat. Praesentium, quasi quis.
+            </p>
+
+            <button> Get Started</button>
+        </div>
+    </section>
+
+
+
+    <section class="sec2">
+
+        <div class="container-fluid">
+
+            <div class="row">
+                <div class="col-md-6">
+
+                    <div class=" sec2__">
+                        <img src="images/icon-access-anywhere.svg" alt="">
+                        <div>
+                            <h2>Access your files, anywhere</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint nihil assumenda pariatur illo
+                                 eos ducimus nulla.
+                                 Quae, rem quaerat, ut,
+                                  quis repudiandae unde provident libero atque illo rerum molestias 
+                                  necessitatibus.
+                            </p>
+    
+                        </div>
+
+                    </div>
+                    
+                </div>
+
+                <div class="col-md-6">
+                        <div class="sec2__">
+                            
+                    <img src="images/icon-security.svg" alt="">
+                    <div>
+                        <h2>Access your files, anywhere</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint nihil assumenda pariatur illo
+                             eos ducimus nulla.
+                             Quae, rem quaerat, ut,
+                              quis repudiandae unde provident libero atque illo rerum molestias 
+                              necessitatibus.
+                        </p>
+
+                    </div>
+                    
+                        </div>
+                </div>
+
+                <div class="col-md-6">
+
+                    <div class="sec2__">
+
+                        <img src="images/icon-collaboration.svg" alt="">
+                    <div>
+                        <h2>Access your files, anywhere</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint nihil assumenda pariatur illo
+                             eos ducimus nulla.
+                             Quae, rem quaerat, ut,
+                              quis repudiandae unde provident libero atque illo rerum molestias 
+                              necessitatibus.
+                        </p>
+
+                    </div>
+
+                    </div>
+
+                    
+                    
+                </div>
+
+                <div class="col-md-6">
+
+                    <div class="sec2__">
+                        <img src="images/icon-any-file.svg" alt="">
+                        <div>
+                            <h2>Access your files, anywhere</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint nihil assumenda pariatur illo
+                                 eos ducimus nulla.
+                                 Quae, rem quaerat, ut,
+                                  quis repudiandae unde provident libero atque illo rerum molestias 
+                                  necessitatibus.
+                            </p>
+    
+                        </div>
+                    </div>
+                    
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <section class="sec3">
+
+        <div class="container-fluid">
+
+            <div class="row">
+
+                <div class="col-md-6">
+                    <img src="images/illustration-stay-productive.png" alt="">
+
+                </div>
+
+                <div class="col-md-6">
+
+                    <h1> Stay productive wherever you are </h1>
+
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint nihil assumenda</p>
+
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint nihil assumenda</p>
+
+                    <div class="sec3_3"> 
+                        <a href=""> See how Flyo works  <span> <img src="images/icon-arrow.svg" alt=""></span> </a> 
+                        <hr>
+                    </div>
+                    
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="sec4">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-4">
+                    <div class="sec4_1">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur,
+                             adipisicing elit. Sint nihil assumenda 
+                             pariatur illo eos ducimus nulla
+                             . Quae, rem
+                        </p>
+    
+                        <div>                      
+                            <div class="sec4_4">
+                                <img src="images/profile-1.jpg" alt="">
+                                <div>
+                                    <p> samheart Ndukwe</p>
+                                    <p> lead dev </p>
+                                </div>
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-md-4">
+                    <div class="sec4_1">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur,
+                             adipisicing elit. Sint nihil assumenda 
+                             pariatur illo eos ducimus nulla
+                             . Quae, rem
+                        </p>
+    
+                        <div>                      
+                            <div class="sec4_4">
+                                <img src="images/profile-1.jpg" alt="">
+                                <div>
+                                    <p> samheart Ndukwe</p>
+                                    <p> lead dev </p>
+                                </div>
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-md-4">
+                    <div class="sec4_1">
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur,
+                             adipisicing elit. Sint nihil assumenda 
+                             pariatur illo eos ducimus nulla
+                             . Quae, rem
+                        </p>
+    
+                        <div>                      
+                            <div class="sec4_4">
+                                <img src="images/profile-1.jpg" alt="">
+                                <div>
+                                    <p> samheart Ndukwe</p>
+                                    <p> lead dev </p>
+                                </div>
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+
+            
+        </div>
+    </section>
+
+
+
+    <section class="sec5">
+
+        <div class="">
+            <h1> Get early access today</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint nihil assumenda pariatur illo</p>
+
+            <div>
+                <form action="" method="post">
+                    <input type="email" placeholder="ndukwesamuel23@gmail">
+                    <input type="submit" value="Get Started for free" placeholder="">
+                </form>
+            </div>
+        </div>
+
+    </section>
+
+
+
+    <footer>
+
+
+        <div class="container-fluid">
+
+            <div class="row">
+
+
+
+
+                <div class="col-md-4"> 
+
+                    <img src="images/logo.svg" alt="">
+
+                    <p>
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quisquam vero,
+                         saepe nulla consectetur sed asperiores
+                          velit a sit inventore est perspiciatis
+                         fugit consequuntur aut. Molestiae perferendis
+                          excepturi incidunt sapiente reiciendis?
+                    </p>
+
+                </div>
+
+
+                <div class="col-md-2"> 
+
+                    <div> 08056148116</div>
+                    <div> ndukwesamuel23@gmail.com</div>
+
+                </div>
+
+
+                <div class="col-md-2">
+                    
+                    <p>About</p>
+                    <p>Job</p>
+                    <p>Press</p>
+                    <p>Blog</p>
+                
+                </div>
+
+
+                <div class="col-md-2">
+                    
+                    <p>Contact Us</p>
+                    <p>Terms</p>
+                    <p>Privacy</p>
+                    
+                </div>
+
+
+                <div class="col-md-2">
+                    
+                    facbok twitter instagram
+                </div>
+
+
+
+            </div>
+
+        </div>
+    </footer>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
